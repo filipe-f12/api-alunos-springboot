@@ -63,6 +63,7 @@ Exemplo de erro:
     "nome": "O nome do aluno é obrigatório"
   }
 }
+```
 
 ## 📄 Documentação da API (Swagger)
 
