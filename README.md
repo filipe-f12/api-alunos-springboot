@@ -99,5 +99,5 @@ Este projeto permitiu praticar:
 
 ## 👤 Autor
 
-Filipe Freitas - Estudante de Ciência da Computação
-Apaixonado por desenvolvimento e programação ☕🚀
+- Filipe Freitas - Estudante de Ciência da Computação
+- Apaixonado por desenvolvimento e programação ☕🚀
