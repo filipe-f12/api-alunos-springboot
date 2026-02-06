@@ -81,9 +81,9 @@ Pré-requisitos:
 
 Passos:
 
-git clone https://github.com/seu-usuario/api-alunos-springboot.git
-cd api-alunos-springboot
-mvn spring-boot:run
+- git clone https://github.com/seu-usuario/api-alunos-springboot.git
+- cd api-alunos-springboot
+- mvn spring-boot:run
 
 ## 🧠 Aprendizados
 
@@ -97,7 +97,7 @@ Este projeto permitiu praticar:
 - Documentação com Swagger
 - Versionamento com Git e GitHub
 
-##👤 Autor
+## 👤 Autor
 
 Filipe Freitas
 Estudante de Ciência da Computação
